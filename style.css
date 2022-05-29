@@ -200,3 +200,13 @@ footer{
         opacity: 1;
     }
 }
+
+.cs{
+   text-transform: uppercase; 
+   font-weight: bolder;
+}
+
+.bds{
+    text-transform: uppercase;
+    font-weight: bolder;
+}
